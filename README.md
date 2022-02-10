@@ -9,7 +9,6 @@
 성장과 꾸준함을 중요하게 생각하며 </br>
 함께 일하고 싶은 개발자로 나아가고 싶습니다.</br></br>
 
-[![Notion Badge](https://img.shields.io/badge/-Resume-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/96b88c10967a4149b5dd558ee00cc778)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shl7683@gmail.com)](mailto:hyunlang.ban@gmail.com)
 [![Velog Badge](https://img.shields.io/badge/-Blog-20C997?style=flat-square&logo=Velog&logoColor=white&l)](https://velog.io/@langssi)
 
