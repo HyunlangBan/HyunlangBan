@@ -1,6 +1,6 @@
 <div align="center">
   
-## Backend Developer
+## Data Engineer
 
 ### 💁🏻‍♀️ About me
 커뮤니케이션을 통해 경계가 넓어지는 경험을 좋아합니다. </br>
